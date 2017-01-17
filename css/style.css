@@ -1,3 +1,5 @@
 .main-title {
+  margin: 0 auto;
   color: blue;
+  font-size: 70px;
 }
